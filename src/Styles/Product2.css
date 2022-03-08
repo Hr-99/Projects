@@ -1,0 +1,144 @@
+.ben2-img1 {
+  transform: translateX(-160%);
+}
+.ben2-img2 {
+  transform: translateX(-165%);
+}
+.ben2-img3 {
+  transform: translateX(-155%);
+}
+.ben2-img4 {
+  transform: translateX(-145%);
+}
+.ben2-img5 {
+  transform: translateX(-160%);
+}
+.ben2-img6 {
+  transform: translateX(-157%);
+}
+.ben2-img7 {
+  transform: translateX(-140%);
+}
+.ben2-img8 {
+  transform: translateX(-150%);
+}
+.ben2-img9 {
+  transform: translateX(-140%);
+}
+
+.ben2-col-text1 {
+  transform: translateY(-105%);
+}
+
+.ben2-col-text3 {
+  transform: translateY(-105%);
+}
+
+.ben2-col-text4 {
+  transform: translateY(-200%);
+}
+.ben2-col-text5 {
+  transform: translateY(-100%);
+}
+
+.ben2-col-text6 {
+  transform: translateY(-100%);
+}
+
+.ben2-col-text7 {
+  transform: translateY(-100%);
+}
+
+.ben2-col-text9 {
+  transform: translateY(-105%);
+}
+
+.descr-sub {
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 136%;
+  color: #702283;
+}
+
+.prod2-col2 {
+  margin-left: 20%;
+}
+
+.ingred2-rw {
+  width: 90%;
+  align-items: center;
+  justify-content: center;
+  margin-left: 4%;
+  margin-top: 5%;
+}
+
+.ingred2-rw a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.ing21 {
+  transform: translateY(-30%);
+}
+
+.ing21-t {
+  transform: translateY(80%);
+}
+
+.ing22-t {
+  transform: translateY(-170%);
+}
+
+.ing23-t {
+  transform: translateY(-120%);
+}
+
+.info2-img {
+  transform: translateY(-20%);
+}
+
+@media screen and (max-width: 768px) {
+  .p2-n {
+    margin-left: 10%;
+    margin-top: 8%;
+  }
+  .p2-con {
+    margin-left: 12%;
+  }
+  .h-rw2 {
+    margin-top: 30%;
+  }
+
+  .ben2-col {
+    transform: translateX(-7%);
+  }
+
+  .ing2-rw {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    width: 100vw;
+    padding: 0%;
+  }
+
+  .ing21 {
+    margin-left: 14rem;
+  }
+  .ing21-t {
+    margin-left: 10rem;
+  }
+
+  .ing23 {
+    padding-right: 5rem;
+  }
+
+  .info2-img {
+    width: 160px;
+    transform: translateY(-21rem);
+    padding: 5% 0%;
+  }
+}

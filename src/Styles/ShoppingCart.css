@@ -1,0 +1,200 @@
+[role="button"] {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+
+.bread {
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 152.9%;
+}
+
+.sc-title {
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 58px;
+  color: #702283;
+}
+
+.sc-card {
+  background-color: #f9f9f9;
+  border: none;
+  border-radius: 15px;
+}
+
+.sc-card-t {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 152.9%;
+}
+
+.sc-card-btn {
+  width: 167px;
+  height: 61px;
+  background: #702283;
+  border-radius: 42px;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 152.9%;
+  color: white;
+}
+.cart-prod-img {
+  width: 70px;
+  height: 110px;
+}
+
+.ord-title {
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 43px;
+}
+.ord-card {
+  border: none;
+  background: #fef9ff;
+  border-radius: 15px;
+}
+.ord-card2 {
+  border: none;
+  background: #fbecff;
+  border-radius: 13px;
+}
+.total-btn {
+  background: #fbecff;
+  box-shadow: 0px 4px 35px -15px rgba(0, 0, 0, 0.25);
+  border-radius: 49px;
+  width: 325px;
+  height: 57px;
+  text-align: left;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+}
+.t-btn-price {
+  float: right;
+}
+
+.pay-btn {
+  background: #702283;
+
+  border-radius: 49px;
+  width: 325px;
+  height: 57px;
+  font-family: Arial;
+  font-size: 18px;
+  line-height: 136%;
+  color: white;
+}
+
+.ord-prod-name {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.ord-prod-price {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.pay-method-title {
+  background: #fef9ff;
+  border-radius: 9px;
+  border: none;
+}
+
+.pay-meth-t {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  color: #702283;
+}
+.pay-way{
+  font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+}
+
+.card-no{
+  border: none;
+  outline: none !important;
+  background-color: #F9F9F9;
+  border-radius: 15px;
+  font-size: 25px;
+  color: #010029;
+}
+
+.crd-det-msg{
+  font-weight: normal;
+font-size: 18px;
+line-height: 152.9%;
+}
+.card-no:focus{
+  background-color: #F9F9F9;
+}
+
+.card-date{
+  background-color: #F9F9F9;
+  border: none;
+  outline: none;
+border-radius: 15px;
+}
+
+select{
+  background-color: #f9f9f9;
+  color: #010029;
+  border: 0px;
+  font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+outline: none;
+
+}
+
+select option{
+  background-color: #f9f9f9;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+    color: #010029;
+    border: none;
+    outline: none;
+    /* width: 72em !important; */
+}
+
+.net-b{
+  font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+}
+
+.sp-off{
+  font-weight: 500;
+font-size: 36px;
+line-height: 43px;
+color: #702283;
+}
+.sp-off-det{
+  font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+}
+.total-btn2 {
+  background: #FFFFFF;
+  box-shadow: 0px 4px 35px -15px rgba(0, 0, 0, 0.25);
+  border-radius: 49px;
+  width: 325px;
+  height: 57px;
+  text-align: left;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+}
+.t-btn-price2 {
+  font-weight: 500;
+font-size: 18px;
+line-height: 29px;
+color: #702283;
+  float: right;
+}

@@ -1,0 +1,400 @@
+.sub_bg {
+  width: 100% !important;
+  height: 120vh;
+  position: absolute;
+  z-index: -2;
+}
+.sub-col1 {
+  transform: translateX(15%);
+}
+.sub-h {
+  font-weight: bold;
+  font-size: 54px;
+  white-space: nowrap;
+  line-height: 77px;
+  color: white;
+}
+
+.sub-s {
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 136%;
+  color: white;
+}
+
+.sub-btn {
+  width: 30%;
+  height: 15%;
+  background: #712383;
+  border: 2px solid #f7ebfa;
+  border-radius: 32px;
+  color: #f7ebfa;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 136%;
+}
+
+.sub-i1 {
+  width: 190px;
+  height: 338px;
+  position: absolute;
+  z-index: -1;
+  margin-top: 5.7%;
+  transform: translateX(55%);
+}
+
+.sub-i2 {
+  width: 264px;
+  height: 443px;
+  margin-left: 14%;
+  transform: translateX(40%);
+}
+
+.sub-i3 {
+  width: 196px;
+  height: 341px;
+  position: absolute;
+  z-index: -1;
+  margin-top: 5.5%;
+  transform: translateX(10%);
+}
+
+.sub-col1 {
+  margin-left: 8.5%;
+}
+.sub-col2 {
+  margin-top: -6%;
+  margin-left: -9%;
+}
+.sub-rw1 {
+  margin-top: 12%;
+}
+
+.sub-ben-rw {
+  margin-top: 8%;
+  background-color: #fbecff;
+}
+.sbrw2 {
+  margin-left: 4%;
+}
+.sub-ben-h {
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 58px;
+  color: #702283;
+  padding-top: 8%;
+}
+
+.sub-ben-s {
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 144.49%;
+}
+
+.sub-ben-btn {
+  width: 25%;
+  height: 33%;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 136%;
+  color: white;
+
+  background: #702283;
+  border-radius: 32px;
+  margin-bottom: 7%;
+}
+
+.benefits-rw {
+  margin-left: 11%;
+  margin-top: 5%;
+}
+
+.sub-ben {
+  width: 200px;
+  height: 190px;
+  border-radius: 50%;
+  background-color: #fafafa;
+}
+
+.ben-i1 {
+  margin-left: 25%;
+  margin-top: 13%;
+}
+.ben-i2 {
+  margin-left: 25%;
+  margin-top: 22%;
+}
+.ben-i3 {
+  margin-left: 29%;
+  margin-top: 20%;
+}
+
+.benefit-h {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.benefit-s {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 144.49%;
+}
+
+.sben-i1 {
+  width: 480px;
+  height: 360px;
+  float: right;
+  margin-right: 4%;
+}
+.sben-i2 {
+  width: 480px;
+  height: 360px;
+}
+
+.bens-col1 {
+  float: right;
+  margin-right: 8%;
+  margin-top: 5%;
+}
+.bens-col2 {
+  margin-top: 5%;
+  margin-left: 3%;
+}
+
+.sben-h {
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 43px;
+  color: #702283;
+}
+
+.sben-s {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 144.49%;
+}
+
+.sben-rw {
+  margin-top: 15%;
+}
+
+.manage-n1 {
+  width: 50px;
+  position: absolute;
+  height: 50px;
+  border-radius: 50%;
+  padding-left: 0.95%;
+  padding-top: 0.4%;
+  font-size: 26px;
+  background-color: #702283;
+  color: white;
+}
+
+.manage-n2 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  padding-left: 0.95%;
+  padding-top: 0.4%;
+  font-size: 26px;
+  background-color: #702283;
+  color: white;
+}
+.manage-n3 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  padding-left: 0.9%;
+  padding-top: 0.4%;
+  font-size: 26px;
+  background-color: #702283;
+  color: white;
+}
+
+.manage-one {
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 31px;
+  margin-left: 7%;
+}
+.manage-t {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 144.49%;
+  margin-left: 7.1%;
+}
+.manage-srw {
+  margin-left: 16.6%;
+  padding-top: 5%;
+}
+.manage-h {
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 58px;
+  color: #702283;
+  padding-top: 8%;
+}
+/* .manage-two{
+    font-weight: 500;
+font-size: 26px;
+line-height: 31px;
+}
+.manage-three{
+    font-weight: 500;
+font-size: 26px;
+line-height: 31px;
+} */
+
+@media screen and (max-width: 768px) {
+  .sub-h {
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    transform: translateX(-19%);
+    margin-top: 8%;
+  }
+  .sub-s {
+    margin-top: 138%;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 136%;
+    text-align: center;
+    transform: translateX(-19%);
+  }
+  .sub-i1 {
+    width: 130px;
+    height: 238px;
+    margin-top: 13%;
+  }
+
+  .sub-i2 {
+    width: 194px;
+    height: 343px;
+  }
+
+  .sub-i3 {
+    width: 136px;
+    height: 241px;
+    margin-top: 14%;
+  }
+  .sub-btn {
+    width: 148px;
+    height: 50px;
+    transform: translateY(-14rem);
+    margin-left: 10%;
+  }
+  .sub-col2 {
+    transform: translateY(-179%);
+    margin-left: -6%;
+  }
+  .sub-ben-h {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .sub-ben-s {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 144.49%;
+    margin-left: 5%;
+    text-align: center;
+  }
+  .sub-ben-btn {
+    width: 168px;
+    height: 40px;
+    white-space: nowrap;
+    margin-left: 5%;
+    transform: translateY(-2rem);
+  }
+
+  .sub-ben-rw {
+    transform: translateY(-85%);
+    background-color: #f9f9f9;
+  }
+  .benefits-rw {
+    transform: translateY(-15rem);
+  }
+
+  .sub-ben {
+    margin-left: 14%;
+    margin-top: 15%;
+  }
+
+  .benefit-h {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    transform: translateX(-8%);
+  }
+  .benefit-s {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 144.49%;
+    text-align: center;
+    transform: translateX(-7%);
+  }
+  .sben-i1 {
+    width: 266px;
+    height: 206px;
+  }
+  .sben-i2 {
+    width: 266px;
+    height: 206px;
+  }
+  .sben-rw {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    margin-top: -8rem;
+  }
+  .sben-h {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .sben-s {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 144.49%;
+  }
+  .sben-col1 {
+    margin-left: 10%;
+  }
+
+  .manage-h {
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 29px;
+    text-align: center;
+  }
+
+  .manage-n1 {
+    transform: translateX(-3rem);
+    padding: 1.5% 0% 0% 4%;
+  }
+
+  .manage-n2 {
+    transform: translateX(-3rem);
+    padding: 1.2% 0% 0% 4.2%;
+  }
+  .manage-n3 {
+    transform: translateX(-3rem);
+    padding: 1.5% 0% 0% 4.3%;
+  }
+  .manage-one {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 19px;
+  }
+  .manage-t {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 144.49%;
+  }
+}
